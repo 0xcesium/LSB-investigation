@@ -1,5 +1,5 @@
 # LSB-investigation
-## To be published
+## <To be published>
 ### Main libraries :
 #### hackercodecs -> https://github.com/jdukes/hackercodecs
 Careful : It does not uses the 'pip install hackercodecs' yet.
