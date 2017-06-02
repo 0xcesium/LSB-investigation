@@ -7,4 +7,4 @@ You need to download the full package in order to fully take advantage of the in
 #### PIL
 	pip install Pillow
 
-### "Ugly but it works"
+### Ugly but it works
