@@ -6,15 +6,26 @@
 #	Extraction | Insertion
 #	GPL Licence : (v1.3)
 # --------------------------------
+#
+# CAUTION : Could possibly makes you puke. 
+# It's ugly.
 # Author: Cesium133
 
 
 from PIL import Image
-import hackercodecs
 import binascii
 import base64
 import sys
 import os
+try:
+	import hackercodecs
+except:
+	os.system('wget https://raw.githubusercontent.com/jdukes/hackercodecs/master/hackercodecs/__init__.py && mv __init__.py hackercodecs.py')
+	import hackercodecs
+finally:
+	print "[-] You need to download the hackercodecs.py API in order to run this script."
+	print ">>> wget https://raw.githubusercontent.com/jdukes/hackercodecs/master/hackercodecs/__init__.py && mv __init__.py hackercodecs.py"
+	sys.exit(-1)
 
 
 # Colors consts
