@@ -114,7 +114,7 @@ The script allows you to encode the message to hide into those formats:
 ### Try it
 Exemple with the 3 leasts significant bits of RED color insertion mode of a message encoded in base64 :
 
-	$ python Diagnostic_LSB.py -idr my_picture.png -enc base64 "My_credit_card_PIN_:_1290468493102384659182"
+	$ python Diagnostic_LSB.py -i3r my_picture.png -enc base64 "My_credit_card_PIN_:_1290468493102384659182"
 
 Then we gather information from the newly created picture:
 
