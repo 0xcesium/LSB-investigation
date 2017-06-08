@@ -123,6 +123,6 @@ Exemple with the 3 leasts significant bits of RED color insertion mode of a mess
 
 Then we gather information from the newly created picture:
 
-	$ python Diagnostic_LSB.py -e .png
+	$ python Diagnostic_LSB.py -e IMG_5bXBXshBPAP386fRxg.png
 
-### Ugly but it works
+### UGLY AND DOESN'T WORK FROM ONE PICTURE TO ANOTHER, GONNA REMAKE IT SOON
