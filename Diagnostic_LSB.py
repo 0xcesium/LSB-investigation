@@ -20,9 +20,6 @@ import os
 try:
 	import hackercodecs
 except:
-	os.system('wget https://raw.githubusercontent.com/jdukes/hackercodecs/master/hackercodecs/__init__.py && mv __init__.py hackercodecs.py')
-	import hackercodecs
-finally:
 	print "[-] You need to download the hackercodecs.py API in order to run this script."
 	print ">>> wget https://raw.githubusercontent.com/jdukes/hackercodecs/master/hackercodecs/__init__.py && mv __init__.py hackercodecs.py"
 	sys.exit(-1)
