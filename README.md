@@ -30,27 +30,45 @@ For printing all the referenced modes of LSB technics found in the parsed pictur
 Technics of insertion of messages in the RGBs of pixels :
 ##### One bit diagonal :
 [-idr|--insert-diag-red] Diagonal, only for RED 
+
 [-idg|--insert-diag-green] Diagonal, only for GREEN 
+
 [-idb|--insert-diag-blue] Diagonal, only for BLUE
+
 [-ida|--insert-diag-rgb] Diagonal, for all RGB 
+
 ##### One bit inlines from top-left-hand corner :
 [-ir|--insert-red] First 3 lines, only for RED 
+
 [-ig|--insert-green] First 3 lines, only for GREEN 
+
 [-ib|--insert-blue] First 3 lines, only for BLUE 
+
 [-ia|--insert-rgb] First 3 lines, for all RGB 
+
 ##### Two bits inlines from top-left-hand corner :
 [-ir2|--insert-2-bits-red] First 3 lines, 2 LSB, only for RED
+
 [-ig2|--insert-2-bits-green] First 3 lines, 2 LSB, only for GREEN
+
 [-ib2|--insert-2-bits-blue] First 3 lines, 2 LSB, only for BLUE
+
 ##### Three bits inlines from top-left-hand corner :
 [-ir3|--insert-3-bits-red] First 3 lines, 3 LSB, only for RED 
+
 [-ig3|--insert-3-bits-green] First 3 lines, 3 LSB, only for GREEN 
+
 [-ib3|--insert-3-bits-blue] First 3 lines, 3 LSB, only for BLUE
+
 [-ia3|--insert-3-bits-rgb] First 3 lines, 3 LSB, for all RGB 
+
 ##### One bit out of Two pixels inlines from top-left-hand corner :
 [-i2r|--insert-pair-red] 1 out of 2 pixels [even ones], only for RED
+
 [-i2g|--insert-pair-green] 1 out of 2 pixels, only for GREEN 
+
 [-i2b|--insert-pair-blue] 1 out of 2 pixels, only for BLUE
+
 [-i2a|--insert-pair-rgb] 1 out of 2 pixels, for all RGB
 
 #### Creation with Encoding utils
