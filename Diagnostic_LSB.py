@@ -4,7 +4,7 @@
 # --------------------------------
 #	LSB parser by Cs[133]
 #	Extraction | Insertion
-#	   2017 MIT License
+# <+> Under the terms of the GPL v3 License.
 # --------------------------------
 #
 # CAUTION : Could possibly makes you puke. 
