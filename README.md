@@ -75,41 +75,41 @@ Technics of insertion of messages in the RGBs of pixels :
 
 The script allows you to encode the message to hide into those formats:
 
-	 ascii85
-	 base16
-	 base32
-	 base64
-	 bin
-	 entity
-         entityhex
-         morse
-         rot1
-         rot10
-         rot11
-         rot12
-         rot13
-         rot14
-         rot15
-         rot16
-         rot17
-         rot18
-         rot19
-         rot2
-         rot20
-         rot21
-         rot22
-         rot23
-         rot24
-         rot25
-         rot3
-         rot4
-         rot5
-         rot6
-         rot7
-         rot8
-         rot9
-         url
-	 yenc
+	ascii85
+	base16
+	base32
+	base64
+	bin
+	entity
+	entityhex
+	morse
+        rot1
+        rot10
+        rot11
+        rot12
+        rot13
+        rot14
+        rot15
+        rot16
+        rot17
+        rot18
+        rot19
+        rot2
+        rot20
+        rot21
+        rot22
+        rot23
+        rot24
+        rot25
+        rot3
+        rot4
+        rot5
+        rot6
+        rot7
+        rot8
+        rot9
+        url
+	yenc
 
 ### Try it
 Exemple with the 3 leasts significant bits of RED color insertion mode of a message encoded in base64 :
