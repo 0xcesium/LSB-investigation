@@ -83,32 +83,32 @@ The script allows you to encode the message to hide into those formats:
 	entity
 	entityhex
 	morse
-        rot1
-        rot10
-        rot11
-        rot12
-        rot13
-        rot14
-        rot15
-        rot16
-        rot17
-        rot18
-        rot19
-        rot2
-        rot20
-        rot21
-        rot22
-        rot23
-        rot24
-        rot25
-        rot3
-        rot4
-        rot5
-        rot6
-        rot7
-        rot8
-        rot9
-        url
+	rot1
+	rot10
+	rot11
+	rot12
+	rot13
+	rot14
+	rot15
+	rot16
+	rot17
+	rot18
+	rot19
+	rot2
+	rot20
+	rot21
+	rot22
+	rot23
+	rot24
+	rot25
+	rot3
+	rot4
+	rot5
+	rot6
+	rot7
+	rot8
+	rot9
+	url
 	yenc
 
 ### Try it
