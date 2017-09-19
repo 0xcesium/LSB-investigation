@@ -1,16 +1,21 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-#
-# --------------------------------
-#	LSB parser by Cs[133]
-#	Extraction | Insertion
-# <+> Under the terms of the GPL v3 License.
-# --------------------------------
-#
-# CAUTION : Could possibly makes you puke. 
-# It's ugly.
-# Author: Cesium133
 
+__author__='''
+cs[133]
+Twitter: @133_cesium
+'''
+__description__='''
+-----------------------
+LSB parser 
+Extraction | Insertion
+-----------------------
+CAUTION : Could possibly makes you puke. 
+It's ugly.
+'''
+__license__='''
+<+> Under the terms of the GPL v3 License.
+'''
 
 from PIL import Image
 import binascii
