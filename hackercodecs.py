@@ -1,7 +1,9 @@
+#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 # use binascii for this stuff
-""" This package provides codecs useful for hacking and hacking related CTFs.
+""" 
+This package provides codecs useful for hacking and hacking related CTFs.
 There are several codecs avaliable once you import this module. To get
 a full list you can use the CODECS_IN_FILE dictionary which is used to
 populated the codec entries::
