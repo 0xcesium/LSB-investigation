@@ -1,4 +1,4 @@
-# LSB-investigation
+# LSB-investigation [![python](https://img.shields.io/badge/Python-2.7-green.svg?style=style=flat-square)](https://www.python.org/downloads/) [![version](https://img.shields.io/badge/Version-Beta-blue.svg?style=style=flat-square)](https://twitter.com/133_cesium) [![license](https://img.shields.io/badge/License-GPL_3-orange.svg?style=style=flat-square)](https://github.com/C3s1um133/LSB-investigation/blob/master/LICENSE)
 
 Version 2.7 of an old script I made for building steganography challenges.
 
